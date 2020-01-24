@@ -1,0 +1,20 @@
+[GEN]
+TOTAL=16
+CATEGORY=WOTA Bugs (Taken from The Version Update Information)
+[WORDS]
+1=double damage bug
+2=mia bug
+3=stats bug
+4=import coins bug
+5=djinn setting bug
+6=timed out bug
+7=one damage attack bug
+8=empty psynergy bug
+9=multiple user bug
+10=no isaac bug
+11=you win message box loop
+12=you lose message box loop
+13=you're out of time bug
+14=accidental admin text bug
+15=white box summon glitch
+16=0 hp 0 pp bug
